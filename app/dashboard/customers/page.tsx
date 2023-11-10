@@ -1,6 +1,5 @@
 export default function Page(){
     
-    return (
-        <div>ici c'est custommers</div>
-    )
+    return <p>ici cest custommers</p>
+    
 }

@@ -1,6 +1,4 @@
 export default function Page(){
     
-    return (
-        <div>ici c'est invoices</div>
-    )
+    return  <p>ici cest invoices</p>
 }
